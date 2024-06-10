@@ -1,0 +1,8 @@
+Hello Team I have created this file using CAT command.
+We can create files through CAT and VIM commands in linux.
+I can use both of these options.
+Thank you!!
+End of code.
+Thanks and Regards,
+Vinmay
+FST Module2
